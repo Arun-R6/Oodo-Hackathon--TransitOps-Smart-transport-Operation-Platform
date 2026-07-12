@@ -1,0 +1,21 @@
+*   [33m3922607[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge remote-tracking branch 'origin/main'
+[31m|[m[32m\[m  
+* [32m|[m [33maa717bc[m Add complete TransitOps platform (backend + frontend)
+[32m|[m [32m|[m *   [33m5cd6cf9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Merge branch 'main' of https://github.com/Arun-R6/Oodo-Hackathon--TransitOps-Smart-transport-Operation-Platform
+[32m|[m [32m|[m [33m|[m[32m\[m  
+[32m|[m [32m|[m [33m|[m[32m/[m  
+[32m|[m [32m|[m[32m/[m[33m|[m   
+[32m|[m * [33m|[m [33m55ff091[m Add complete TransitOps platform (backend + frontend)
+[32m|[m[32m/[m [33m/[m  
+[32m|[m * [33m2aa58b5[m Add .gitignore
+[32m|[m[32m/[m  
+* [33m3e98839[m Add .gitignore
+*   [33m6009a19[m Merge pull request #1 from Arun-R6/start
+[35m|[m[36m\[m  
+[35m|[m * [33mee100aa[m[33m ([m[1;31morigin/start[m[33m)[m add it
+* [36m|[m [33m685ec81[m Merge branch 'main' of https://github.com/Arun-R6/Oodo-Hackathon--TransitOps-Smart-transport-Operation-Platform
+[1;31m|[m[36m\[m[36m|[m 
+[1;31m|[m * [33mc30d476[m Add files via upload
+* [1;32m|[m [33macf05af[m Your commit message
+[1;32m|[m[1;32m/[m  
+* [33m5766315[m Initial commit
